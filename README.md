@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 **Professional Summary**
+## **About Me**
 A passionate **Full Stack Developer** with strong expertise in **Python, Django, JavaScript, React,Node js, SQL**, and modern UI frameworks.  
 Recently completed **Master of Computer Applications (MCA)** with hands-on industry training and multiple real-world projects.
 
@@ -16,13 +16,13 @@ Ambitious to work at global tech companies like **Google**, **Microsoft**, or to
 
 ---
 
-## 👩‍🎓 **Education**
+##  **Education**
 - 🎓 **Master of Computer Applications (MCA)** — *Completed*  
 - 🏫 Sharnbasva University, Kalaburagi  
 
 ---
 
-## 🛠️ **Skills & Technologies**
+##  **Skills & Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,django,react,mysql,git,github,docker,bootstrap,tailwind,vscode,linux" />
 </p>
@@ -40,11 +40,11 @@ Machine learning model to predict a student’s graduation probability.
 ### 🔹 **Recipe Finder App** — *Python, Django*  
 Recommends recipes based on user-selected ingredients.
 
-### 🔹 **MyIpLocator** — *Python*  
+### 🔹 **MyIpLocator** — *React*  
 Extracts geolocation information using the user's public IP.
 
-### 🔹 **WordSnap** — *JavaScript*  
-A fun and fast word game built using HTML, CSS, and JS.
+### 🔹 **WordSnap** — *React*  
+A fun and fast word game built using HTML, CSS, and React.
 
 ---
 
