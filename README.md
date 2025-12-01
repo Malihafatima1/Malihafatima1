@@ -8,7 +8,7 @@
 ---
 
 ## **About Me**
-A passionate **Full Stack Developer** with strong expertise in **Python, Django, JavaScript, React,Node js, SQL**, and modern UI frameworks.  
+A passionate **Full Stack Developer** with strong expertise in **Python, Django, JavaScript, React,Node js, SQL, MongoDB**, and modern UI frameworks.  
 Recently completed **Master of Computer Applications (MCA)** with hands-on industry training and multiple real-world projects.
 
 I love building **clean, scalable, user-friendly applications** and exploring innovative technologies.  
